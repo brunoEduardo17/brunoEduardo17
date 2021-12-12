@@ -6,4 +6,4 @@ Connect with me:
 
 
 Languages and Tools:
-bootstrap css3 git html5 illustrator javascript linux react
+ css3 git html5  javascript  react
